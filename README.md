@@ -49,5 +49,5 @@ A dedicated Advanced Computing Student specializing in building software archite
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Minkhant029814&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minkhant029814&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
